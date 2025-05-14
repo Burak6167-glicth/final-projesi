@@ -1,2 +1,2 @@
 # final-projesi
-aylık su tüketimini ölçen bir website  
+Muzları olgunluklarına göre ayıran bir site
